@@ -928,3 +928,10 @@ vendors:
 css: css
 js: js
 images: images
+
+
+# Deployment 
+deploy:
+  type: git
+  repo: https://github.com/AbhiramMngi/blog-by-ram.git
+  branch: gh-pages
