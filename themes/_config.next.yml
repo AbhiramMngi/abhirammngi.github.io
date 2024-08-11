@@ -933,6 +933,6 @@ images: images
 # Deployment 
 deploy:
   type: git
-  repo: https://github.com/AbhiramMngi/blog-by-ram.git
+  repo: https://github.com/AbhiramMngi/abhirammngi.github.io
   branch: main
   # repo_dir: public

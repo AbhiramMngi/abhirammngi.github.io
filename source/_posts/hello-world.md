@@ -1,38 +1,11 @@
 ---
-title: Hello World
+title: Abhiram Reddy
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+Hi, I'm Abhiram, I'm a CS grad with a strong interest in Quantitative Research, Algorithmic Trading, Mathematics, Statistics, Machine Learning and Computer Science, and I have a Software Engineering Background as a Full-Stack Engineer. This blog will contain all the things I learn in my journey to be a Quantitative Researcher, including book reviews, problem solving, and some interesting math puzzles.  
 
-### Create a new post
 
-``` bash
-$ hexo new "My New Post"
-```
+## Work Experience
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+Aug 2022 - Nov 2023: Software Development Engineer at <b>ShopUp</b>
 
-### Run server
-
-``` bash
-$ hexo server
-```
-
-More info: [Server](https://hexo.io/docs/server.html)
-
-### Generate static files
-
-``` bash
-$ hexo generate
-```
-
-More info: [Generating](https://hexo.io/docs/generating.html)
-
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
