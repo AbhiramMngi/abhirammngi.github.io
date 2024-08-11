@@ -934,5 +934,5 @@ images: images
 deploy:
   type: git
   repo: https://github.com/AbhiramMngi/blog-by-ram.git
-  branch: gh-pages
+  branch: main
   # repo_dir: public
