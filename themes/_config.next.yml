@@ -935,3 +935,4 @@ deploy:
   type: git
   repo: https://github.com/AbhiramMngi/blog-by-ram.git
   branch: gh-pages
+  repo_dir: public
